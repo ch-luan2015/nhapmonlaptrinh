@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\project\nhapmonlaptrinh\Chuong2\Chuong2\ChuyenDoiNgoaiTe\bin\Debug\ChuyenDoiNgoaiTe.exe
+C:\Users\USER\Desktop\project\nhapmonlaptrinh\Chuong2\Chuong2\ChuyenDoiNgoaiTe\bin\Debug\ChuyenDoiNgoaiTe.pdb
+C:\Users\USER\Desktop\project\nhapmonlaptrinh\Chuong2\Chuong2\ChuyenDoiNgoaiTe\obj\Debug\ChuyenDoiNgoaiTe.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\project\nhapmonlaptrinh\Chuong2\Chuong2\ChuyenDoiNgoaiTe\obj\Debug\ChuyenDoiNgoaiTe.MH_CapNhatGiaNgoaiTe.resources
+C:\Users\USER\Desktop\project\nhapmonlaptrinh\Chuong2\Chuong2\ChuyenDoiNgoaiTe\obj\Debug\ChuyenDoiNgoaiTe.MH_Chinh.resources
+C:\Users\USER\Desktop\project\nhapmonlaptrinh\Chuong2\Chuong2\ChuyenDoiNgoaiTe\obj\Debug\ChuyenDoiNgoaiTe.Properties.Resources.resources
+C:\Users\USER\Desktop\project\nhapmonlaptrinh\Chuong2\Chuong2\ChuyenDoiNgoaiTe\obj\Debug\ChuyenDoiNgoaiTe.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\project\nhapmonlaptrinh\Chuong2\Chuong2\ChuyenDoiNgoaiTe\obj\Debug\ChuyenDoiNgoaiTe.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\project\nhapmonlaptrinh\Chuong2\Chuong2\ChuyenDoiNgoaiTe\obj\Debug\ChuyenDoiNgoaiTe.exe
+C:\Users\USER\Desktop\project\nhapmonlaptrinh\Chuong2\Chuong2\ChuyenDoiNgoaiTe\obj\Debug\ChuyenDoiNgoaiTe.pdb
