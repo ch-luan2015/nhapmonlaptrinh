@@ -5,7 +5,17 @@
       "ProjectGuid": "76e2dd29-61e3-48bc-97fd-b90fb3d24a7f",
       "DisplayName": "ChuyenDoiNgoaiTe",
       "ColorIndex": 0
+    },
+    "30a295d1-1653-4db3-95ba-619ec5d753e2": {
+      "ProjectGuid": "30a295d1-1653-4db3-95ba-619ec5d753e2",
+      "DisplayName": "ChuyenDoiNgoaiTe",
+      "ColorIndex": 1
+    },
+    "3b944460-e9b8-46c4-87f0-0ecd07115364": {
+      "ProjectGuid": "3b944460-e9b8-46c4-87f0-0ecd07115364",
+      "DisplayName": "ChuyenDoiTienTe",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }
