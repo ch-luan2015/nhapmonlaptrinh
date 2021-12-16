@@ -66,6 +66,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="MH_BanNgoaiTe.resx">
+      <DependentUpon>MH_BanNgoaiTe.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="MH_CapNhatTyGia.resx">
       <DependentUpon>MH_CapNhatTyGia.cs</DependentUpon>
     </EmbeddedResource>

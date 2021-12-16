@@ -10,3 +10,4 @@ C:\Users\USER\Desktop\project\nhapmonlaptrinh\ChuyenDoiTienTe\obj\Debug\ChuyenDo
 C:\Users\USER\Desktop\project\nhapmonlaptrinh\ChuyenDoiTienTe\obj\Debug\ChuyenDoiTienTe.pdb
 C:\Users\USER\Desktop\project\nhapmonlaptrinh\ChuyenDoiTienTe\obj\Debug\ChuyenDoiTienTe.MH_CapNhatTyGia.resources
 C:\Users\USER\Desktop\project\nhapmonlaptrinh\ChuyenDoiTienTe\obj\Debug\ChuyenDoiTienTe.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\project\nhapmonlaptrinh\ChuyenDoiTienTe\obj\Debug\ChuyenDoiTienTe.MH_BanNgoaiTe.resources
