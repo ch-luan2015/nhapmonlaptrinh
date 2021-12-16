@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Desktop\\project\\nhapmonlaptrinh\\Chuong2\\ChuyenDoiNgoaiTe\\ChuyenDoiNgoaiTe.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Desktop\\project\\nhapmonlaptrinh\\ChuyenDoiNgoaiTe\\ChuyenDoiNgoaiTe.csproj",
       "projectName": "ChuyenDoiNgoaiTe",
-      "projectPath": "C:\\Users\\USER\\Desktop\\project\\nhapmonlaptrinh\\Chuong2\\ChuyenDoiNgoaiTe\\ChuyenDoiNgoaiTe.csproj",
+      "projectPath": "C:\\Users\\USER\\Desktop\\project\\nhapmonlaptrinh\\ChuyenDoiNgoaiTe\\ChuyenDoiNgoaiTe.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Desktop\\project\\nhapmonlaptrinh\\Chuong2\\ChuyenDoiNgoaiTe\\obj\\",
+      "outputPath": "C:\\Users\\USER\\Desktop\\project\\nhapmonlaptrinh\\ChuyenDoiNgoaiTe\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -68,7 +68,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

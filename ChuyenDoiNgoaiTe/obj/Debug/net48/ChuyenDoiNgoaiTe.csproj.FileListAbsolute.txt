@@ -1,0 +1,8 @@
+C:\Users\USER\Desktop\project\nhapmonlaptrinh\ChuyenDoiNgoaiTe\obj\Debug\net48\ChuyenDoiNgoaiTe.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\project\nhapmonlaptrinh\ChuyenDoiNgoaiTe\obj\Debug\net48\ChuyenDoiNgoaiTe.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\project\nhapmonlaptrinh\ChuyenDoiNgoaiTe\obj\Debug\net48\ChuyenDoiNgoaiTe.MH_Chinh.resources
+C:\Users\USER\Desktop\project\nhapmonlaptrinh\ChuyenDoiNgoaiTe\obj\Debug\net48\ChuyenDoiNgoaiTe.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\project\nhapmonlaptrinh\ChuyenDoiNgoaiTe\obj\Debug\net48\ChuyenDoiNgoaiTe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\project\nhapmonlaptrinh\ChuyenDoiNgoaiTe\obj\Debug\net48\ChuyenDoiNgoaiTe.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\project\nhapmonlaptrinh\ChuyenDoiNgoaiTe\obj\Debug\net48\ChuyenDoiNgoaiTe.AssemblyInfo.cs
+C:\Users\USER\Desktop\project\nhapmonlaptrinh\ChuyenDoiNgoaiTe\obj\Debug\net48\ChuyenDoiNgoaiTe.csproj.CoreCompileInputs.cache
