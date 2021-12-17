@@ -1,0 +1,8 @@
+C:\Users\PolkaDot\Desktop\Project\nhapmonlaptrinh\Chuong3\Chuong3_OPP\DoiTienUSD\obj\Debug\DoiTienUSD.csproj.AssemblyReference.cache
+C:\Users\PolkaDot\Desktop\Project\nhapmonlaptrinh\Chuong3\Chuong3_OPP\DoiTienUSD\obj\Debug\DoiTienUSD.csproj.SuggestedBindingRedirects.cache
+C:\Users\PolkaDot\Desktop\Project\nhapmonlaptrinh\Chuong3\Chuong3_OPP\DoiTienUSD\obj\Debug\DoiTienUSD.MH_Chinh.resources
+C:\Users\PolkaDot\Desktop\Project\nhapmonlaptrinh\Chuong3\Chuong3_OPP\DoiTienUSD\obj\Debug\MH_Doc_Xuat.resources
+C:\Users\PolkaDot\Desktop\Project\nhapmonlaptrinh\Chuong3\Chuong3_OPP\DoiTienUSD\obj\Debug\MH_Nhap_Ghi.resources
+C:\Users\PolkaDot\Desktop\Project\nhapmonlaptrinh\Chuong3\Chuong3_OPP\DoiTienUSD\obj\Debug\DoiTienUSD.Properties.Resources.resources
+C:\Users\PolkaDot\Desktop\Project\nhapmonlaptrinh\Chuong3\Chuong3_OPP\DoiTienUSD\obj\Debug\DoiTienUSD.csproj.GenerateResource.cache
+C:\Users\PolkaDot\Desktop\Project\nhapmonlaptrinh\Chuong3\Chuong3_OPP\DoiTienUSD\obj\Debug\DoiTienUSD.csproj.CoreCompileInputs.cache

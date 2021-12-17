@@ -46,14 +46,44 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="MH_Chinh.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="MH_Chinh.Designer.cs">
+      <DependentUpon>MH_Chinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MH_Doc_Xuat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MH_Doc_Xuat.designer.cs">
+      <DependentUpon>MH_Doc_Xuat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MH_Khai_Bao_Xu_Ly.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MH_Khai_Bao_Xu_Ly.designer.cs">
+      <DependentUpon>MH_Khai_Bao_Xu_Ly.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MH_Nhap_Ghi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MH_Nhap_Ghi.designer.cs">
+      <DependentUpon>MH_Nhap_Ghi.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="MH_Chinh.resx">
+      <DependentUpon>MH_Chinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MH_Doc_Xuat.resx">
+      <DependentUpon>MH_Doc_Xuat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MH_Khai_Bao_Xu_Ly.resx">
+      <DependentUpon>MH_Khai_Bao_Xu_Ly.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MH_Nhap_Ghi.resx">
+      <DependentUpon>MH_Nhap_Ghi.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

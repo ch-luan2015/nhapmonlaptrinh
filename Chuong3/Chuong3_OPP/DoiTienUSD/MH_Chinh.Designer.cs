@@ -1,6 +1,6 @@
 ﻿namespace DoiTienUSD
 {
-    partial class Form1
+    partial class MH_Chinh
     {
         /// <summary>
         /// Required designer variable.
@@ -28,10 +28,17 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.SuspendLayout();
+            // 
+            // MH_Chinh
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            this.Name = "MH_Chinh";
+            this.Text = "Trang Chủ";
+            this.ResumeLayout(false);
+
         }
 
         #endregion

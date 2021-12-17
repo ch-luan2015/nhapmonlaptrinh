@@ -7,14 +7,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.IO;
 
-namespace DoiTienUSD
-{
-    public partial class Form1 : Form
+
+    public partial class MH_Doc_Xuat : Form
     {
-        public Form1()
+        public MH_Doc_Xuat()
         {
             InitializeComponent();
+
+            var hoTen = File.ReadAllText("TyGiaSinUSD.txt");
+            TH_HoTen.Text = hoTen;
+
         }
     }
-}
+
